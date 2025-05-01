@@ -1,0 +1,85 @@
+# Tipos de conecções
+
+
+Fisicas -> via cobre ou lux fibra otica
+
+ou logicas -> sem fio
+
+
+trafegam em 0 ou 1 binario desligado ligado
+
+
+3 tipos de conecção
+
+cobre
+sem fio
+lux
+
+Todos tem um proposito ou objetivo
+
+
+![Bits transporte](./IMGs/04/Bits-Transporte.png)
+
+
+
+True Put
+
+Taxa real de transferencia de dados
+
+upload dowload
+entrada e saida dos dados
+
+
+Meio mais usado -> Cobre
+
+Macho e femia RJ 45 (Atnção)
+
+switchs tem Rj 45 femeas 
+Cobre trançado isolado para nao calsar interferencia externa
+
+
+
+Imagine que você tem dois brinquedos que querem conversar. Para eles se entenderem, precisam de um "telefone", que nesse caso é um cabo de rede com essas pontas chamadas RJ45, que parecem um encaixe de telefone maior.
+
+Existem alguns jeitos de ligar esses "telefones":
+
+Ethernet Direto: É como se você ligasse o "telefone" de um brinquedo direto no "telefone" do outro. As cores dos fios dentro das pontas são iguais dos dois lados. Usamos isso para conectar um computador na internet ou em um aparelho como uma impressora.
+
+Ethernet Cruzado: Imagine que os "telefones" precisam de uma ajudinha extra para se entenderem. 
+Rollover: Esse é um jeito diferente de ligar, como se os fios estivessem todos trocados de lugar de um lado para o outro. 
+
+
+
+
+
+
+# fibra otica
+
+transmite lux pelo cabo
+2 entradas
+RxTx
+
+
+nucle de vidro 
+revestimento interno de ivdro
+revestimento
+
+
+
+# Meios sem Fio
+
+wirelles - muito usado
+
+warless -- sem cabo sem fio
+
+ondas de radio
+
+tecnologia wifi
+
+dispositivo Pc --> dispositivo com antenas Roteador
+
+
+Problemas -- Não tao seguro
+
+Todos estão recebendo esse sinal 
+se quebrar a senha ele terá acesso
