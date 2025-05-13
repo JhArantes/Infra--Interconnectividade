@@ -4,7 +4,7 @@ This repository aims to organize and present the main concepts of the discipline
 
 ---
 
-![](./IMGs/Cisco/House-Cisco.png)
+<img src="./IMGs/Cisco/House-Cisco.png" alt="Casa com infraestrutura Cisco" width="600"/>
 
 ---
 
@@ -32,7 +32,7 @@ Overview of the discipline and definition of key terms.
 ### 02 - Connections 🔌  
 Exploration of physical data transmission media: cables, connectors, and interconnection devices.
 
-![Arvore Conecção](./IMGs/Cisco/Three-CiscoCopy.png)
+<img src="./IMGs/Cisco/Three-CiscoCopy.png" alt="Árvore de Conexão" width="600"/>
 
 ### 03 - Protocols 📡  
 Study of the main protocols used for communication in networks, focusing on the TCP/IP model.
@@ -40,9 +40,10 @@ Study of the main protocols used for communication in networks, focusing on the 
 ### 04 - Types of Connections 🌐  
 Differences between wired and wireless connections, local area networks (LAN), metropolitan area networks (MAN), and wide area networks (WAN).
 
-![end](./IMGs/03/Endereçamento.png)
+<img src="./IMGs/03/Endereçamento.png" alt="Endereçamento IP" width="600"/>
 
-![Seven](./IMGs/03/7CamadasCopy.png)
+<img src="./IMGs/03/7CamadasCopy.png" alt="Modelo OSI - 7 Camadas" width="600"/>
+
 
 ### 05 - Network Layer 🏠  
 Functioning of the network layer in the OSI model, highlighting IP addressing and routing.
@@ -50,14 +51,16 @@ Functioning of the network layer in the OSI model, highlighting IP addressing an
 ### 06 - Transport Layer 🚚  
 Concepts of flow control, transmission reliability, and TCP/UDP protocols.
 
-![](./IMGs/04/Bits-Transporte.png)
+<img src="./IMGs/04/Bits-Transporte.png" alt="Bits de Transporte" width="600"/>
 
-![](./IMGs/06/transporte.png)
+<img src="./IMGs/06/transporte.png" alt="Camada de Transporte" width="600"/>
+
 
 ### 07 - Application Layer 🌍  
 User-end services such as DNS, HTTP, FTP, and applications in the Internet of Things (IoT).
 
-![](./IMGs/07/Osicamadas.png)
+<img src="./IMGs/07/Osicamadas.png" alt="Camadas OSI Aplicação" width="600"/>
+
 
 ---
 
