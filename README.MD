@@ -32,7 +32,7 @@ Overview of the discipline and definition of key terms.
 ### 02 - Connections 🔌  
 Exploration of physical data transmission media: cables, connectors, and interconnection devices.
 
-![Arvore Conecção](./IMGs/Cisco/Three-Cisco.png)
+![Arvore Conecção](./IMGs/Cisco/Three-CiscoCopy.png)
 
 ### 03 - Protocols 📡  
 Study of the main protocols used for communication in networks, focusing on the TCP/IP model.
@@ -42,7 +42,7 @@ Differences between wired and wireless connections, local area networks (LAN), m
 
 ![end](./IMGs/03/Endereçamento.png)
 
-![Seven](./IMGs/03/7Camadas.png)
+![Seven](./IMGs/03/7CamadasCopy.png)
 
 ### 05 - Network Layer 🏠  
 Functioning of the network layer in the OSI model, highlighting IP addressing and routing.
