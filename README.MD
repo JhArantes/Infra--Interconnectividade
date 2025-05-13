@@ -40,8 +40,9 @@ Study of the main protocols used for communication in networks, focusing on the 
 ### 04 - Types of Connections 🌐  
 Differences between wired and wireless connections, local area networks (LAN), metropolitan area networks (MAN), and wide area networks (WAN).
 
-![](./IMGs/03/Endereçamento.png)
+![end](./IMGs/03/Endereçamento.png)
 
+#
 ![7Layers](./IMGs/03/7Camadas.png)
 
 ### 05 - Network Layer 🏠  
