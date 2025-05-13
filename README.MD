@@ -1,59 +1,96 @@
-# 🧠 Projeto: Infraestrutura e Conectividade
+# 📡 Project: Network Infrastructure and Connectivity
 
-Este repositório tem como objetivo reunir e organizar os principais conceitos da disciplina de **Infraestrutura e Interconectividade de Redes de Computadores**, abordando desde os fundamentos das conexões físicas até os protocolos de aplicação utilizados na internet.
-
----
-
-## 📁 Estrutura do Projeto
-
-A seguir, uma explicação dos diretórios e arquivos presentes no projeto:
-
-### 📂 IMGs
-
-Contém imagens de apoio para os conteúdos explicativos, divididas por módulos (03, 04, 06, 07), conforme a organização do curso.
+This repository aims to organize and present the main concepts of the discipline of Computer Network Infrastructure and Interconnectivity, covering everything from physical connection fundamentals to communication protocols used in modern networks.
 
 ---
 
-## 📄 Arquivos de Conteúdo
-
-| Arquivo | Conteúdo |
-|--------|----------|
-| `01--Introdução.md` | Visão geral sobre redes de computadores, a importância da conectividade e os objetivos da disciplina. |
-| `02--Conexões.md` | Tipos de conexões utilizadas em redes, como cabeadas, sem fio, ponto a ponto, entre outras. |
-| `03--Protocolos.md` | Explicação sobre protocolos de comunicação (TCP/IP, UDP, HTTP, etc.) e sua importância. |
-| `04--Tipos_Conexões.md` | Complemento aos arquivos anteriores, detalha as variações dos tipos de conexões e meios de transmissão. |
-| `05--Camada_De_Rede.md` | Estudo da Camada de Rede do modelo OSI, focando em endereçamento IP, roteamento e pacotes. |
-| `06--Camada_De_Transporte.md` | Explicação da Camada de Transporte, com ênfase nos protocolos TCP e UDP e no controle de fluxo e erro. |
-| `07--Camada_De_Aplicacao.md` | Detalhamento da Camada de Aplicação, incluindo protocolos como HTTP, FTP, DNS, SMTP, entre outros. |
+![](./IMGs/Cisco/House-Cisco.png)
 
 ---
 
-## 📘 Objetivos de Aprendizado
+## 📄 Content Files
 
-- Compreender os **modelos de referência** OSI e TCP/IP;
-- Distinguir as funções de cada **camada de rede**;
-- Identificar os principais **protocolos de comunicação** e suas aplicações;
-- Entender os **tipos de conexão** e meios físicos utilizados;
-- Estudar os conceitos de **cliente-servidor**, **P2P**, **endereçamento IP**, **DNS**, **DHCP** e muito mais.
-
----
-
-## 💡 Recomendações
-
-- Utilize os arquivos Markdown com o apoio das imagens correspondentes da pasta `IMGs`.
-- Explore os conteúdos de forma sequencial para facilitar o entendimento progressivo.
-- Ideal para revisão, estudos para provas ou como base para apresentações acadêmicas.
+| File | Description |
+|------|-------------|
+| `01--Introduction.md` | Overview of computer networks, the importance of connectivity, and the goals of the subject. |
+| `02--Connections.md` | Types of network connections such as wired, wireless, point-to-point, among others. |
+| `03--Protocols.md` | Explanation of communication protocols (TCP/IP, UDP, HTTP, etc.) and their importance. |
+| `04--Connection_Types.md` | Complements previous files, detailing connection types and transmission media. |
+| `05--Network_Layer.md` | Study of the Network Layer in the OSI model, focusing on IP addressing, routing, and packet switching. |
+| `06--Transport_Layer.md` | Explanation of the Transport Layer, emphasizing TCP and UDP protocols and flow/error control. |
+| `07--Application_Layer.md` | Details the Application Layer, including protocols such as HTTP, FTP, DNS, SMTP, and others. |
 
 ---
 
-## 🚀 Contribuições Futuras
+## 📂 Project Content
 
-- [ ] Adicionar diagramas interativos com ferramentas como Mermaid
-- [ ] Incluir exemplos práticos com Packet Tracer
-- [ ] Criar uma versão em PDF do material
+Each module addresses an essential topic for understanding the structure and functioning of computer networks.
+
+### 01 - Introduction 📚  
+Overview of the discipline and definition of key terms.
+
+### 02 - Connections 🔌  
+Exploration of physical data transmission media: cables, connectors, and interconnection devices.
+
+![Connection Tree](./IMGs/Cisco/Three-Cisco.png)
+
+### 03 - Protocols 📡  
+Study of the main protocols used for communication in networks, focusing on the TCP/IP model.
+
+### 04 - Types of Connections 🌐  
+Differences between wired and wireless connections, local area networks (LAN), metropolitan area networks (MAN), and wide area networks (WAN).
+
+![](./IMGs/03/Endereçamento.png)
+
+![7Layers](./IMGs/03/7Camadas.png)
+
+### 05 - Network Layer 🏠  
+Functioning of the network layer in the OSI model, highlighting IP addressing and routing.
+
+### 06 - Transport Layer 🚚  
+Concepts of flow control, transmission reliability, and TCP/UDP protocols.
+
+![](./IMGs/04/Bits-Transporte.png)
+
+![](./IMGs/06/transporte.png)
+
+### 07 - Application Layer 🌍  
+User-end services such as DNS, HTTP, FTP, and applications in the Internet of Things (IoT).
+
+![](./IMGs/07/Osicamadas.png)
 
 ---
 
-📫 **Autor**: João Henrique Arantes  
-🎓 **Instituição**: FIAP  
-📅 **Ano**: 2025
+## 🏷️ Keywords
+
+- Computer Networks  
+- Connectivity  
+- TCP/IP Protocols  
+- IP Addressing  
+- Routing  
+- TCP and UDP  
+- OSI Model  
+- Fiber Optics  
+- Wi-Fi  
+- Network Security  
+- Network Infrastructure  
+- OSI Layers  
+- Data Networks  
+- Internet of Things (IoT)  
+- Communication Protocols  
+- Network Structures
+
+---
+
+## 👨‍💻 Author
+
+**João Henrique Arantes**
+
+- 📧 Email: joaohenri.dev@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/joaoharv](https://www.linkedin.com/in/joaoharv)  
+- 💼 GitHub: [github.com/JhArantes](https://github.com/JhArantes)  
+
+Passionate about technology and network systems, João developed this repository as part of his academic and practical journey in Computer Networks Infrastructure. The project reflects his dedication to organizing and sharing knowledge in a clear and structured way.
+
+---
+
