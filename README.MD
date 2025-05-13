@@ -4,7 +4,7 @@ This repository aims to organize and present the main concepts of the discipline
 
 ---
 
-![](./IMGs/Cisco/House-Cisco.png)
+![House Cisco](./IMGs/Cisco/House-Cisco.png)
 
 ---
 
